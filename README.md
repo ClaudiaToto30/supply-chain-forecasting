@@ -5,10 +5,11 @@ The dataset contains monthly observations from January 1992 through July 2026. T
 The dataset will be used to practice time series forecasting models and to analyze patterns in U.S. retail sales.
 
 ### 2. Data Dictionary
-Variable Name	Readable Variable Name	Measurement Units	Allowed Values	Definition
-observation_date	Observation Date	Date (YYYY-MM-DD)	Monthly dates from January 1992 to July 2026	The month in which the U.S. retail trade sales were recorded.
-MRTSSM44000USN	U.S. Retail Sales: Retail Trade	Millions of U.S. dollars	Non-negative numerical values	The monthly value of retail trade sales in the United States.
 
+| Variable Name | Readable Variable Name | Measurement Units | Allowed Values | Definition |
+|---|---|---|---|---|
+| `observation_date` | Observation Date | Date (YYYY-MM-DD) | Monthly dates from January 1992 to July 2026 | The month in which the U.S. retail trade sales were recorded. |
+| `MRTSSM44000USN` | U.S. Retail Sales: Retail Trade | Millions of U.S. dollars | Non-negative numerical values | The monthly value of retail trade sales in the United States. |
 
 #### Synonyms
 The MRTSSM44000USN variable may also be described as:
